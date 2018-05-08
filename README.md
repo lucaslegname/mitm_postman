@@ -1,6 +1,6 @@
 # MITM Postman
 
-A tool that creates a Postman collection from App / Web API calls
+A tool that creates a Postman collection from App / Web API calls (now compatible with mitmproxy 3).
 
 # Setup
 
@@ -13,7 +13,7 @@ pip3 install mitmproxy
 Clone mitm_postman
 
 ```sh
-git clone https://github.com/viraja1/mitm_postman.git
+git clone https://github.com/lucaslegname/mitm_postman.git
 ```
 
 ```sh
